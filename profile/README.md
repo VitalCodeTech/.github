@@ -1,4 +1,4 @@
-# 🩺 VitalCodeTech — Health-Tech Emergency Identification
+# 🩺 VitalCode — Health-Tech Emergency Identification
 
 ![HealthTech](https://img.shields.io/badge/Health--Tech-Emergency%20ID-blue)
 ![GDPR](https://img.shields.io/badge/GDPR-aware-success)
