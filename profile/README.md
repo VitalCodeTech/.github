@@ -2,7 +2,6 @@
 
 ![HealthTech](https://img.shields.io/badge/Health--Tech-Emergency%20ID-blue)
 ![GDPR](https://img.shields.io/badge/GDPR-aware-success)
-![Open Source](https://img.shields.io/badge/Open%20Source-Community-informational)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=VitalCodeTech)
 
 <br/>
@@ -95,9 +94,7 @@ A **QR-powered medical bracelet** linked to an **encrypted digital profile** tha
 ---
 
 ## 📦 Repositories
-- 🔗 **Bracelet App** *(coming soon)*
-- 🔗 **Core API** *(coming soon)*
-- 🔗 **Web Dashboard** *(coming soon)*
+Core platform repositories are private and maintained by the VitalCode engineering team.
 
 ---
 
@@ -109,8 +106,10 @@ A **QR-powered medical bracelet** linked to an **encrypted digital profile** tha
 
 ---
 
-## 🤝 Contributing
-We welcome responsible contributions.
+## 🤝 Development
+VitalCode is developed by an internal engineering team.  
+Repository access is restricted to authorized members only.
+
 
 - Open an issue with **context, risk, and success criteria**
 - Prefer **small, focused PRs**
