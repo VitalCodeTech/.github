@@ -47,7 +47,6 @@ A **QR-powered medical bracelet** linked to an **encrypted digital profile** tha
 - 🧿 **QR Bracelet + Digital Profile**  
   Allergies, medications, chronic conditions, blood group, emergency contacts
 - 🔐 **Consent-first access** with granular field visibility
-- 📶 **Offline emergency fallback** for critical medical basics
 - 🌐 **Web dashboard** for fast updates from any device
 - 🧾 **Audit trail** for access and data changes
 - 🔄 **Encrypted export/import** to sync with healthcare providers
