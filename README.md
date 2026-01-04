@@ -1,108 +1,192 @@
-VitalCodeTech · Health-Tech Emergency ID
-HealthTech badgeGDPR-aware badgeOpen Source badgeVisitor Badge
-<br>
-<img src="https://readme-typing-svg.demolab.com/?lines=VitalCode:+Emergency+ID+%7C+QR+Code+%7C+Bracelet;Privacy-first+health+profiles;Fast+access+in+critical+moments&center=false&pause=1000&width=800" alt="Typing SVG" />
+# 🩺 VitalCodeTech — Health-Tech Emergency Identification
 
-Quick links → Mission / Problem / Solution · Key Features · Privacy & Security · Roadmap · Repositories · Contributing · Contact · Disclaimer
+![HealthTech](https://img.shields.io/badge/Health--Tech-Emergency%20ID-blue)
+![GDPR](https://img.shields.io/badge/GDPR-aware-success)
+![Open Source](https://img.shields.io/badge/Open%20Source-Community-informational)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=VitalCodeTech)
 
-Mission / Problem / Solution
-Mission: Make critical medical data instantly accessible in emergencies without sacrificing privacy.
-Problem: First responders lose time hunting for accurate info; patients struggle to keep records current and secure.
-Solution: A QR-powered bracelet that links to an encrypted profile with only the essentials responders need.
-Key Features
-QR bracelet + digital profile with allergies, meds, conditions, emergency contacts.
-Consent-first sharing; patient-controlled visibility for sensitive fields.
-Offline-friendly QR payload fallback for critical basics.
-Multi-device web app for fast updates; audit trail for access events.
-Export/import with encryption to keep providers in sync.
-Privacy & Security
-<details> <summary>How we protect data</summary>
-End-to-end encryption for stored medical details; hashed QR tokens.
-Data minimization: only life-critical fields surface by default.
-GDPR-aware flows: access logs, consent prompts, data portability & erasure paths.
-Secrets isolated; scoped API keys; least-privilege access for services.
-Regular threat modeling for emergency scenarios (lost bracelet, shared devices).
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=VitalCode+%7C+Emergency+Medical+ID;QR+Code+%2B+Smart+Bracelet;Privacy-first+Health+Profiles;Fast+Access+in+Critical+Moments&pause=1000&width=900" alt="Typing SVG" />
+
+---
+
+## 🔗 Quick links
+[Mission](#-mission--problem--solution) ·
+[Key Features](#-key-features) ·
+[Privacy & Security](#-privacy--security) ·
+[Roadmap](#-roadmap) ·
+[Repositories](#-repositories) ·
+[Contributing](#-contributing) ·
+[Contact](#-contact) ·
+[Disclaimer](#-disclaimer)
+
+---
+
+## 🧭 About VitalCode
+**VitalCode** is a health-tech startup **launched on 1 January 2026**, building a secure digital emergency identification system that helps save time—and lives—when every second matters.
+
+---
+
+## 🎯 Mission · Problem · Solution
+
+### **Mission**
+Make **critical medical information instantly accessible** in emergencies, without compromising privacy or user control.
+
+### **Problem**
+- First responders often lack reliable medical data on arrival  
+- Patients struggle to keep medical information updated and secure  
+- Paper records, phone lock screens, and ad-hoc solutions are unreliable  
+
+### **Solution**
+A **QR-powered medical bracelet** linked to an **encrypted digital profile** that exposes **only life-saving information** when scanned.
+
+---
+
+## ✨ Key Features
+- 🧿 **QR Bracelet + Digital Profile**  
+  Allergies, medications, chronic conditions, blood group, emergency contacts
+- 🔐 **Consent-first access** with granular field visibility
+- 📶 **Offline emergency fallback** for critical medical basics
+- 🌐 **Web dashboard** for fast updates from any device
+- 🧾 **Audit trail** for access and data changes
+- 🔄 **Encrypted export/import** to sync with healthcare providers
+
+---
+
+## 🔐 Privacy & Security
+
+<details>
+<summary><strong>How we protect sensitive health data</strong></summary>
+
+- End-to-end encryption for stored medical information  
+- Hashed and non-guessable QR identifiers  
+- Data minimization: only life-critical fields are visible by default  
+- GDPR-aware flows: consent, access logs, portability, and erasure  
+- Isolated secrets, scoped API keys, least-privilege services  
+- Continuous threat modeling (lost bracelet, shared devices, misuse)
+
 </details>
-Roadmap
-<details> <summary>Phase 1 — MVP</summary>
-Core QR bracelet provisioning and profile creation.
-Emergency view with offline-critical fields.
-Basic audit log + consent controls.
-Initial web dashboard for patients & guardians.
-</details> <details> <summary>Phase 2 — Expansion</summary>
-Provider handoff workflows and verified responders.
-Multi-language emergency screen & accessibility upgrades.
-Integrations: EHR/EMS exports; secure API for partners.
-Hardware iterations: durable bands, NFC hybrid tags.
+
+---
+
+## 🗺️ Roadmap
+
+<details>
+<summary><strong>Phase 1 — MVP</strong></summary>
+
+- QR bracelet provisioning  
+- Medical profile creation & updates  
+- Emergency view with offline-critical fields  
+- Basic consent controls & access logs  
+- Initial patient / guardian web dashboard  
+
 </details>
-Repositories
-🔗 Bracelet App (placeholder)
-🔗 Core API (placeholder)
-🔗 Dashboard Web (placeholder)
-GitHub Stats
-Org stats
-Top languages
 
-Contributing
-Open an issue with context, risk, and success criteria.
-Small PRs > big drops; add tests where possible.
-Follow security-first defaults; avoid exposing sensitive fields.
-Contact
-📫 vitalcode2026@gmail.com
-🌐 https://github.com/VitalCodeTech
-Disclaimer
-VitalCode does not replace professional medical advice or emergency services. Always call local emergency numbers first.
-VitalCodeTech · Identité médicale d’urgence
-HealthTech badgeGDPR-aware badgeCollaboration badgeCompteur de visites
-<br>
-<img src="https://readme-typing-svg.demolab.com/?lines=VitalCode:+ID+m%C3%A9dicale+d%27urgence;QR+Code+%7C+Bracelet+connect%C3%A9;Profil+priv%C3%A9+et+chiffr%C3%A9&center=false&pause=1000&width=800" alt="Typing SVG FR" />
+<details>
+<summary><strong>Phase 2 — Expansion</strong></summary>
 
-Liens rapides → Mission / Problème / Solution · Fonctionnalités · Confidentialité & Sécurité · Feuille de route · Dépôts · Contribution · Contact · Avertissement
+- Verified responder & provider workflows  
+- Multi-language emergency screens + accessibility  
+- Secure partner API (EMS / EHR exports)  
+- Hardware evolution: durable bands, NFC hybrid tags  
 
-Mission / Problème / Solution
-Mission : Rendre immédiat l’accès aux données médicales critiques sans compromettre la vie privée.
-Problème : Les secours perdent du temps à trouver des infos fiables; les patients peinent à garder des dossiers à jour et protégés.
-Solution : Un bracelet QR relié à un profil chiffré contenant uniquement l’essentiel pour les intervenants.
-Fonctionnalités clés
-Bracelet QR + profil numérique : allergies, traitements, pathologies, contacts d’urgence.
-Partage sous consentement; contrôle granulaire des champs sensibles.
-Secours hors ligne : données vitales encodées dans le QR.
-Application web multi-appareils pour mises à jour rapides; journal d’accès.
-Export/import chiffré pour synchroniser avec les soignants.
-Confidentialité & Sécurité
-<details> <summary>Nos garanties</summary>
-Chiffrement de bout en bout des données médicales; jetons QR hachés.
-Minimisation des données : seuls les champs vitaux s’affichent par défaut.
-Parcours conformes RGPD : journaux d’accès, consentement, portabilité et suppression.
-Secrets isolés; clés API à portée limitée; principe du moindre privilège.
-Analyse de menaces régulière (bracelet perdu, appareil partagé).
 </details>
-Feuille de route
-<details> <summary>Phase 1 — MVP</summary>
-Provisionnement du bracelet QR et création de profil.
-Vue urgence avec champs critiques hors ligne.
-Journal d’accès + contrôles de consentement.
-Tableau de bord web initial pour patients et proches.
-</details> <details> <summary>Phase 2 — Expansion</summary>
-Parcours de relais pour soignants et intervenants vérifiés.
-Écran d’urgence multilingue et accessibilité renforcée.
-Intégrations : exports EHR/EMS; API sécurisée pour partenaires.
-Évolutions matérielles : bracelets durables, tags hybrides NFC.
-</details>
-Dépôts
-🔗 Application Bracelet (placeholder)
-🔗 API Noyau (placeholder)
-🔗 Tableau de bord Web (placeholder)
-Statistiques GitHub
-Stats org
-Langages principaux
 
-Contribution
-Ouvrir une issue avec contexte, risques et critères de réussite.
-Petites PRs préférées; ajouter des tests quand c’est pertinent.
-Par défaut, privilégier la sécurité et éviter toute donnée sensible exposée.
-Contact
-📫 vitalcode2026@gmail.com
-🌐 https://github.com/VitalCodeTech
-Avertissement
-VitalCode ne remplace pas les services médicaux ou d’urgence. Appelez toujours les numéros d’urgence locaux en premier.
+---
+
+## 📦 Repositories
+- 🔗 **Bracelet App** *(coming soon)*
+- 🔗 **Core API** *(coming soon)*
+- 🔗 **Web Dashboard** *(coming soon)*
+
+---
+
+## 📊 GitHub Statistics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=VitalCodeTech&show_icons=true&theme=default" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitalCodeTech&layout=compact" height="140"/>
+</p>
+
+---
+
+## 🤝 Contributing
+We welcome responsible contributions.
+
+- Open an issue with **context, risk, and success criteria**
+- Prefer **small, focused PRs**
+- Add tests where relevant
+- Follow **security-first defaults**
+- Never expose real or sensitive medical data
+
+---
+
+## 📬 Contact
+📧 **vitalcode2026@gmail.com**  
+🌐 **https://github.com/VitalCodeTech**
+
+---
+
+## ⚠️ Disclaimer
+VitalCode does **not** replace professional medical advice or emergency services.  
+Always contact local emergency numbers first.
+
+---
+
+---
+
+# 🇫🇷 VitalCodeTech — Identité Médicale d’Urgence (Health-Tech)
+
+<img src="https://readme-typing-svg.demolab.com/?lines=VitalCode+%7C+ID+m%C3%A9dicale+d%27urgence;QR+Code+%2B+Bracelet+connect%C3%A9;Donn%C3%A9es+de+sant%C3%A9+chiffr%C3%A9es&pause=1000&width=900" alt="Typing SVG FR" />
+
+---
+
+## 🎯 Mission · Problème · Solution
+
+### **Mission**
+Permettre un **accès immédiat aux données médicales critiques** en situation d’urgence, sans compromettre la confidentialité.
+
+### **Problème**
+- Les secours manquent souvent d’informations fiables  
+- Les patients ont du mal à maintenir des dossiers à jour et sécurisés  
+- Les solutions actuelles sont fragmentées et peu fiables  
+
+### **Solution**
+Un **bracelet QR** relié à un **profil médical chiffré**, exposant uniquement l’essentiel aux intervenants.
+
+---
+
+## ✨ Fonctionnalités clés
+- Bracelet QR + profil numérique sécurisé  
+- Partage sous consentement avec contrôle granulaire  
+- Données vitales accessibles hors ligne  
+- Application web multi-appareils  
+- Journal d’accès et traçabilité  
+- Export / import chiffré pour les soignants  
+
+---
+
+## 🔐 Confidentialité & Sécurité
+
+<details>
+<summary><strong>Nos garanties</strong></summary>
+
+- Chiffrement de bout en bout  
+- Identifiants QR non exploitables  
+- Minimisation des données affichées  
+- Conformité RGPD (consentement, portabilité, suppression)  
+- Principe du moindre privilège  
+- Analyse continue des risques  
+
+</details>
+
+---
+
+## 🗺️ Feuille de route
+*(voir version anglaise pour le détail complet)*
+
+---
+
+## ⚠️ Avertissement
+VitalCode ne remplace pas un avis médical professionnel ni les services d’urgence.  
+Appelez toujours les numéros d’urgence locaux en priorité.
