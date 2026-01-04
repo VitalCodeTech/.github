@@ -1,4 +1,4 @@
-# 🩺 VitalCodeTech — Health-Tech Emergency Identification
+# 🩺 VitalCode — Health-Tech Emergency Identification
 
 ![HealthTech](https://img.shields.io/badge/Health--Tech-Emergency%20ID-blue)
 ![GDPR](https://img.shields.io/badge/GDPR-aware-success)
@@ -108,7 +108,7 @@ Always contact local emergency numbers first.
 
 ---
 
-# 🇫🇷 VitalCodeTech — Identification Médicale d’Urgence (Health-Tech)
+# 🇫🇷 VitalCode — Identification Médicale d’Urgence (Health-Tech)
 
 <img src="https://readme-typing-svg.demolab.com/?lines=VitalCode+%7C+Identification+m%C3%A9dicale+d%27urgence;Bracelet+m%C3%A9dical+%2B+QR+Code;Donn%C3%A9es+de+sant%C3%A9+confidentielles&pause=1000&width=900" alt="Typing SVG FR" />
 
