@@ -134,7 +134,7 @@ Always contact local emergency numbers first.
 
 ---
 
-# 🇫🇷 VitalCodeTech — Identité Médicale d’Urgence (Health-Tech)
+# 🇫🇷 VitalCode — Identité Médicale d’Urgence (Health-Tech)
 
 <img src="https://readme-typing-svg.demolab.com/?lines=VitalCode+%7C+ID+m%C3%A9dicale+d%27urgence;QR+Code+%2B+Bracelet+connect%C3%A9;Donn%C3%A9es+de+sant%C3%A9+chiffr%C3%A9es&pause=1000&width=900" alt="Typing SVG FR" />
 
@@ -157,8 +157,7 @@ Un **bracelet QR** relié à un **profil médical chiffré**, exposant uniquemen
 
 ## ✨ Fonctionnalités clés
 - Bracelet QR + profil numérique sécurisé  
-- Partage sous consentement avec contrôle granulaire  
-- Données vitales accessibles hors ligne  
+- Partage sous consentement avec contrôle granulaire   
 - Application web multi-appareils  
 - Journal d’accès et traçabilité  
 - Export / import chiffré pour les soignants  
